@@ -1,3 +1,3 @@
-# Aplicativo-Teste-de-Velocidade-Python
-# Instalar biblioteca speed
-# pip install speedtest-cli
+Video do aplicativo funcionando: https://youtu.be/UQJFkev3NOo
+
+Para executar o aplicativo necessário instalar bibliotecas Python + biblioteca speed
